@@ -1154,10 +1154,12 @@ header .container nav .form i {
     color: #777;
     line-height: 2;
 }
-.contact-us .contact-content .info .location address span{
+
+.contact-us .contact-content .info .location address span {
     text-decoration: none;
     color: inherit;
 }
+
 @media (max-width:767px) {
     .contact-us .contact-content {
         flex-direction: column-reverse;
@@ -1201,7 +1203,7 @@ header .container nav .form i {
     text-align: center;
 }
 
-.footer .container .logo a  {
+.footer .container .logo a {
     margin-bottom: 45px;
 }
 
